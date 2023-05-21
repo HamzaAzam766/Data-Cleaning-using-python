@@ -1,0 +1,10 @@
+Name           | Age | Date of Birth | Email              
+---------------+----+------------+--------------------
+John Smith     | 25 | 1998-05-12 | john@example.com   
+Jane Doe       | 30 | 1992-09-21 | jane@example.com   
+Emily Wilson   | 28 | 1985-12-01 | emily@example.com  
+Michael Brown  | 28 | 1995-04-10 | michael@example.com
+Sarah Anderson | 35 | 1980-10-25 | sarah@example.com  
+David Miller   | 42 | 1978-06-03 | david@example.com  
+Daniel Harris  | 33 | 1990-03-18 | daniel@example.com 
+Alice Johnson  | 32 | 1990-07-15 | alice@example.com  
